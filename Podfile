@@ -11,5 +11,5 @@ pod 'GooglePlaces'
 pod 'Firebase/Auth'
 pod 'Firebase/Firestore'
 pod 'Firebase/Analytics'
-pod ‘Firebase/Firestone’
+pod 'SideMenu'
 end
