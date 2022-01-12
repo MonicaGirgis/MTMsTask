@@ -7,4 +7,9 @@ target 'Map' do
 
   # Pods for Map
 pod 'GoogleMaps', '6.0.1'
+pod 'GooglePlaces'
+pod 'Firebase/Auth'
+pod 'Firebase/Firestore'
+pod 'Firebase/Analytics'
+pod ‘Firebase/Firestone’
 end
